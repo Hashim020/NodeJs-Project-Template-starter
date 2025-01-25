@@ -56,3 +56,20 @@ Welcome to the NodeJs Project Template Starter! This template provides a basic s
 3. Open your browser and navigate to `http://localhost:3000` to see the running server.
 
 ## Project Structure
+- `src/`: Contains the source code of the project.
+  - `index.js`: Entry point of the application.
+  - `routes/`: Directory for route handlers.
+- `.env`: Environment variables file.
+- `.gitignore`: Specifies files to be ignored by Git.
+- `package.json`: Lists project dependencies and scripts.
+- `README.md`: Project documentation.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy coding!
